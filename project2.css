@@ -1,0 +1,350 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Anton', sans-serif;
+
+
+}
+
+
+.topsection
+{
+ width: 100%;
+ height: 100vh;
+ background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(icegif-5600.gif);
+ background-size: cover;
+ background-position: center;
+ float: left;
+}
+.head
+{
+    width: 100%;
+    height: 100px;
+    background: transparent;
+    float: left;
+}
+.head ul{
+    margin-left: 854px;
+    margin-top: -7px;
+}
+
+
+.head ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 51px;
+    margin-top: 50px;
+    text-transform: capitalize;
+}
+
+
+.head ul li a{
+    text-decoration:solid;
+    color: aliceblue;
+    font-weight: 500;
+}
+.hello
+{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-left: 1px;
+    margin-top: 298px;
+    
+
+}
+.hello h2{
+    font-style: italic;
+     font-size: 70px;
+    color: aliceblue;
+
+}
+button
+{
+    width: 114px;
+    height: 37px;
+    padding-top: 10px;
+    padding-top: 0;
+    margin: 10px 20px;
+    text-align: center;
+    font-weight: bold;
+    border-color: rgb(211, 197, 197);
+    background: transparent;
+    color: aliceblue;
+    border-radius: 23px;
+    cursor: pointer;
+ 
+
+
+}
+
+
+
+.middle
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Natur-Field-Corn-Green-1920-x-1200-768x480.jpg );
+    background-size: cover;
+    background-position: center;
+    float: left;
+}
+.middle1
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Natur-Field-Corn-Green-1920-x-1200-768x480.jpg );
+    background-size: cover;
+    background-position: center;
+    float: left;
+    
+
+}
+.firstsection
+{   
+    width: 100%;
+    height: 50vh;
+    background: transparent;
+    float: left;
+    justify-self: center;
+    display: flex;
+    padding-right: 10px;
+    margin-right: 2px;
+    
+}
+.secondsection
+{
+    width: 100%;
+    height: 50vh;
+    background: transparent;
+    float: left;
+    display: flex;
+    padding-left: 215px;
+    padding-top: 36px;
+
+
+    
+    
+    
+    
+}
+.section1
+{
+   width: 33%; 
+   height: 50vh; 
+   background: yellow; 
+   margin: 10px;
+   border-radius: 10ex;
+   border-style: solid;
+  border-color: black;
+  background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(Blue,_Green_&_White.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+   
+
+  
+}
+.section2
+{
+    width: 33%; 
+    height: 50vh; 
+    background: violet;
+     margin: 0%;
+     border-radius: 20ex;
+     border-style: solid;
+     border-color: black;
+     background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(DSC_0031.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+ }
+ .section3
+ {
+    width: 33%; 
+    height: 50vh; 
+    background: violet;
+    border-radius: 10ex;
+    border-style: solid;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(images2.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+    
+     
+ }
+ .section4
+ {
+    width: 33.3%;
+    height: 40vh;
+    background: papayawhip;
+    border-radius: 10ex;
+    border-style: solid;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(maxresdefault.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+ }
+ .sec5
+ {
+    width: 33.3%;
+    height: 40vh;
+    background: maroon;
+    border-radius: 10ex;
+    border-style: initial;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(Feature1.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+
+ }
+ .font1
+ {
+   
+   color: white;
+   font-family: "Times New Roman", Times, serif;
+   font-weight: bolder;
+   font-stretch: condensed;
+   text-shadow: 1px 1px;
+ }
+ 
+
+ .section6
+{
+   width: 33%; 
+   height: 50vh; 
+   background: yellow; 
+   margin-left: 30px;
+   border-radius: 13ex;
+   border-style: solid;
+  border-color: black;
+  background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(explore-img.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+   
+
+  
+}
+.section7
+{
+    width: 33%; 
+    height: 50vh; 
+    background: violet;
+     margin: 0%;
+     border-radius: 15ex;
+     border-style: solid;
+     border-color: black;
+     background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(Edakkal_Caves.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+ }
+ .section8
+ {
+    width: 33%; 
+    height: 50vh; 
+    background: violet;
+    border-radius: 13ex;
+    border-style: solid;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(7-1517381277.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+    
+ }
+ .section9
+ {
+    width: 33.3%;
+    height: 40vh;
+    background: transparent;
+    border-radius: 15ex;
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+ }
+ .sec10
+ {
+    width: 25%;
+    height: 40vh;
+    background: maroon;
+    border-radius: 15ex;
+    border-style: initial;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(Fragrant-Nature-Munnar.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-left: 80px;
+
+ }
+ .bottom
+{
+    width: 100%;
+    height: 102vh;
+    background-image: linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url(icegif-5597.gif);
+    background-size: cover;
+    background-position: center;
+    float: left
+}
+
+
+.hello1
+{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin-left: 1px;
+    margin-top: 475px;
+    
+    
+}
+.hello1 p{
+    margin-top: 10px;
+    font-weight: lighter;
+    color: blue;
+    margin-bottom: 0px;
+
+}
+.secondsection1
+{
+    width: 100%;
+    height: 70vh;
+    background: transparent;
+    float: left;
+    display: flex;
+    padding-left: 215px;
+    padding-top: 36px;
+}
+.section11
+ {
+    width: 33.3%;
+    height: 60vh;
+    background: transparent;
+    border-radius: 5ex;
+    border-style: solid;
+    border-color: black;
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin-left: 40px;
+ }
+ .sec12
+ {
+    width: 33.3%;
+    height: 60vh;
+    background: maroon;
+    border-radius: 5ex;
+    border-style: initial;
+    border-color: black;
+    background-image: linear-gradient(rgba(0,0,0,0.40),rgba(0,0,0,0.40)),url(large-campaign-for-save-environment-sticker-poster-120526-original-imafkz8texdtsbcv.jpg);
+     background-size: cover;
+    background-position: center;
+    text-align: center;
+    margin: 40px;
+
+ }
